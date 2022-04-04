@@ -1,0 +1,110 @@
+* [33mcommit dd9aeb94e2a119f15a9b2a4e01edd02c78578cef[m[33m ([m[1;36mHEAD -> [m[1;32mbranch_git_study[m[33m, [m[1;31morigin/branch_git_study[m[33m)[m
+[31m|[m Author: dany19991 <dany19991@yahoo.com>
+[31m|[m Date:   Mon Apr 4 22:32:03 2022 +0300
+[31m|[m 
+[31m|[m     uppdated module2.c
+[31m|[m 
+* [33mcommit 21b7b611a6724852ae26fd3520dd3b7851058a44[m
+[31m|[m Author: dany19991 <dany19991@yahoo.com>
+[31m|[m Date:   Mon Apr 4 21:18:59 2022 +0300
+[31m|[m 
+[31m|[m     edited module2.h and created this new branch
+[31m|[m 
+* [33mcommit 2afe039dd11e60f22908b2800d56b05cb91a87b4[m[33m ([m[1;31morigin/feature_branch2[m[33m, [m[1;32mfeature_branch2[m[33m)[m
+[31m|[m Author: dany19991 <dany19991@yahoo.com>
+[31m|[m Date:   Mon Sep 17 02:05:50 2018 +0300
+[31m|[m 
+[31m|[m     updated module 2 on feature branch 2
+[31m|[m   
+[31m|[m * [33mcommit 5390add6a990d43bf2672f906a50558fa0f7df85[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+[31m|[m [32m|[m Author: Dan <dany19991@yahoo.com>
+[31m|[m [32m|[m Date:   Wed Oct 3 11:46:25 2018 +0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Ipad commit
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit ee6e8a1b60c7eb71975b8cf83565743f8d7a8a33[m
+[31m|[m [32m|[m Author: Dan <dany19991@yahoo.com>
+[31m|[m [32m|[m Date:   Wed Oct 3 11:46:15 2018 +0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Ipad
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 2508d2392f2d89d45acc858d2b0f7afdf3c3fff8[m
+[31m|[m [32m|[m Author: dany19991 <dany19991@yahoo.com>
+[31m|[m [32m|[m Date:   Sun Sep 16 23:27:01 2018 +0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     added module 4 to master
+[31m|[m [32m|[m   
+[31m|[m *   [33mcommit 3972746c0f1d2edf7f8ab624ef775d61ed82b306[m
+[31m|[m [33m|[m[34m\[m  Merge: bf79b4d 47533a6
+[31m|[m [33m|[m [34m|[m Author: dany19991 <dany19991@yahoo.com>
+[31m|[m [33m|[m [34m|[m Date:   Sun Sep 16 22:59:24 2018 +0300
+[31m|[m [33m|[m [34m|[m 
+[31m|[m [33m|[m [34m|[m     Merge branch 'feature_branch1'
+[31m|[m [33m|[m [34m|[m 
+[31m|[m [33m|[m * [33mcommit 47533a678d5fc3f9e2f25cd06b5ab338caf11daf[m[33m ([m[1;31morigin/feature_branch1[m[33m, [m[1;32mfeature_branch1[m[33m)[m
+[31m|[m [33m|[m [34m|[m Author: dany19991 <dany19991@yahoo.com>
+[31m|[m [33m|[m [34m|[m Date:   Sun Sep 16 22:53:45 2018 +0300
+[31m|[m [33m|[m [34m|[m 
+[31m|[m [33m|[m [34m|[m     fix in module3 on feature branch
+[31m|[m [33m|[m [34m|[m   
+[31m|[m [33m|[m *   [33mcommit af5809b468e5ad2b647bb4ab9979eb6f1f2d7f93[m
+[31m|[m [33m|[m [35m|[m[33m\[m  Merge: d6cc687 bf79b4d
+[31m|[m [33m|[m [35m|[m[33m/[m  Author: dany19991 <dany19991@yahoo.com>
+[31m|[m [33m|[m[33m/[m[35m|[m   Date:   Sun Sep 16 21:20:46 2018 +0300
+[31m|[m [33m|[m [35m|[m   
+[31m|[m [33m|[m [35m|[m       Merge remote-tracking branch 'origin/master' into feature_branch1
+[31m|[m [33m|[m [35m|[m 
+[31m|[m * [35m|[m [33mcommit bf79b4d18463686200a9cc27a5fe3639bb7deb56[m
+[31m|[m [36m|[m [35m|[m Author: dany19991 <dany19991@yahoo.com>
+[31m|[m [36m|[m [35m|[m Date:   Sun Sep 16 21:11:31 2018 +0300
+[31m|[m [36m|[m [35m|[m 
+[31m|[m [36m|[m [35m|[m     updated module 3 on master
+[31m|[m [36m|[m [35m|[m   
+[31m|[m [36m|[m *   [33mcommit d6cc687543bde2b57080dec47b1acda39c4f634f[m
+[31m|[m [36m|[m [31m|[m[36m\[m  Merge: c8e4318 27b232d
+[31m|[m [36m|[m[31m/[m [36m/[m  Author: dany19991 <dany19991@yahoo.com>
+[31m|[m[31m/[m[36m|[m [36m/[m   Date:   Sun Sep 16 21:05:25 2018 +0300
+[31m|[m [36m|[m[36m/[m    
+[31m|[m [36m|[m         Merge branch 'master' into feature_branch1
+[31m|[m [36m|[m 
+[31m|[m * [33mcommit 27b232dea2a8ec087818f6a6db4a52f6f39af19b[m
+[31m|[m [1;32m|[m Author: dany19991 <dany19991@yahoo.com>
+[31m|[m [1;32m|[m Date:   Sun Sep 16 20:46:52 2018 +0300
+[31m|[m [1;32m|[m 
+[31m|[m [1;32m|[m     added module 3 to master
+[31m|[m [1;32m|[m 
+* [1;32m|[m [33mcommit c8e43189e070a37488ee43948bd84aa9fd7112c4[m
+[1;32m|[m [1;32m|[m Author: dany19991 <dany19991@yahoo.com>
+[1;32m|[m [1;32m|[m Date:   Sun Sep 16 20:52:24 2018 +0300
+[1;32m|[m [1;32m|[m 
+[1;32m|[m [1;32m|[m     updated module2 on feature_branch1
+[1;32m|[m [1;32m|[m 
+* [1;32m|[m [33mcommit dbd286a60ff2fe6d9b1684d6adc999bfcc6577a6[m
+[1;32m|[m[1;32m/[m  Author: dany19991 <dany19991@yahoo.com>
+[1;32m|[m   Date:   Sun Sep 16 19:47:10 2018 +0300
+[1;32m|[m   
+[1;32m|[m       added module 2 on feature branch 1
+[1;32m|[m 
+* [33mcommit a159bbaaede514d01a7442db9849e768fa0b8748[m
+[1;32m|[m Author: dany19991 <dany19991@yahoo.com>
+[1;32m|[m Date:   Sun Sep 16 19:44:36 2018 +0300
+[1;32m|[m 
+[1;32m|[m     added module1
+[1;32m|[m 
+* [33mcommit f97fd782ae4dc7bf3d356783a5c7998ec9e8547c[m
+[1;32m|[m Author: dany19991 <43318959+dany19991@users.noreply.github.com>
+[1;32m|[m Date:   Sun Sep 16 18:48:10 2018 +0300
+[1;32m|[m 
+[1;32m|[m     Update Main.c
+[1;32m|[m 
+* [33mcommit 9ecd3d9218876d4943f9b856f371cec43e292c34[m
+[1;32m|[m Author: dany19991 <43318959+dany19991@users.noreply.github.com>
+[1;32m|[m Date:   Sun Sep 16 18:46:41 2018 +0300
+[1;32m|[m 
+[1;32m|[m     Create Main.c
+[1;32m|[m 
+* [33mcommit 94548a376e80662a189c414c818f10269469620b[m
+  Author: dany19991 <43318959+dany19991@users.noreply.github.com>
+  Date:   Sun Sep 16 18:43:54 2018 +0300
+  
+      Initial commit
